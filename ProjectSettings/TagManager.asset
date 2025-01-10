@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Kill
+  - "Tch\xE8que poing"
+  - Ouk Ed
+  - M et Teur
+  - SpawningOnTriggerEnter
+  - Projo
+  - Damage
+  - Key
+  - SelfDestroying
+  - EnemyProjo
+  - RangedEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Terrain
+  - Water
+  - UI
+  - Dashable
+  - Swingable
+  - EnemyGrounded
+  - SlowGrapple
+  - MovingPlatform
+  - EnemyFlying
+  - HazardTrigger
+  - ClimbGrapple
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
